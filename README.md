@@ -1,7 +1,7 @@
 # 💫 About Me:
-Working on Cyber Security
-furkanfilikci.com.tr
-
+Working on Cyber Security. 
+##### ↓↓ My personal website ↓↓
+####   [furkanfilikci.com.tr](https://furkanfilikci.com.tr)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/furkannfilikci) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/furkan-f-801a90235/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19606345/cortexiphan) 
